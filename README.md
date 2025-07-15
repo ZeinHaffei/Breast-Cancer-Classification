@@ -50,7 +50,7 @@ The script demonstrates preprocessing, feature scaling, model training, evaluati
 Simply run the script:
 
 ```bash
-python breast_cancer_ml.py
+python Breast Cancer Classification.py
 ```
 
 *You can easily modify the script to test other datasets or classification tasks.*
