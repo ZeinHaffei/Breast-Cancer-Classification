@@ -30,7 +30,7 @@ The script demonstrates preprocessing, feature scaling, model training, evaluati
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/breast-cancer-ml-comparison.git
+    git clone https://github.com/ZeinHaffei/breast-cancer-ml-comparison.git
     cd breast-cancer-ml-comparison
     ```
 
@@ -112,7 +112,7 @@ A focused look at the learned class separation by each model:
 
 ## 🧑‍💻 Author
 
-- [Zein Al Haffei](https://github.com/your-username)
+- [Zein Al Haffei](https://github.com/ZeinHaffei)
 
 ---
 
