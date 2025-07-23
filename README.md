@@ -4,6 +4,7 @@ A comprehensive machine learning project for **classification of breast cancer**
 The script demonstrates preprocessing, feature scaling, model training, evaluation, visualization, and hyperparameter tuning across multiple algorithms.
 
 ---
+## 🚀 Try it in Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/142MxGRZtIBGm2RWzK97BvC8Tnptj1r5d?usp=drive_link)
 
