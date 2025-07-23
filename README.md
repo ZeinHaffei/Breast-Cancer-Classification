@@ -5,6 +5,10 @@ The script demonstrates preprocessing, feature scaling, model training, evaluati
 
 ---
 
+![Open In Colab]([https://colab.research.google.com/github/your-username/your-repo/blob/main/path/to/your_notebook.ipynb](https://colab.research.google.com/drive/142MxGRZtIBGm2RWzK97BvC8Tnptj1r5d?usp=drive_link))
+
+---
+
 ## 📚 Features
 
 - Loads and explores the Breast Cancer Wisconsin dataset (built-in from sklearn).
